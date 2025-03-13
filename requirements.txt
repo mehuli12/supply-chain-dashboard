@@ -1,0 +1,7 @@
+pandas
+dash
+dash-bootstrap-components
+plotly
+openpyxl
+gunicorn
+streamlit  # Added Streamlit for deployment
